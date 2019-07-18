@@ -29,7 +29,6 @@ namespace ElateSoftwareTestTask
                 Console.WriteLine(ex.Message);
             }
             
-
             Console.ReadLine();
         }     
     }
